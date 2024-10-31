@@ -3,7 +3,7 @@
 - main goal: predict default risk, deploy model
 
 - skills learned:
-   - handling multiple tables, a multitude of (cross-table) aggregations, and feature engineering with domain knowledge
+   - handling multiple tables, a multitude of (cross-table) aggregations, and feature engineering with domain knowledge --> > 300 features
    - correlation strength and feature importances
    - model selection for classification
    - exploring recursive feature elimination
