@@ -1,0 +1,12 @@
+imbalanced-learn==0.10.1
+numpy==1.23.5
+pandas==1.5.3
+scikit-learn==1.2.2
+#streamlit==1.27.0
+fastapi==0.104.1
+gunicorn==21.2.0
+uvicorn==0.23.2
+sklearn-pandas==2.2.0
+statsmodels==0.14.0
+lightgbm==3.3.5
+xgboost==2.0.1
