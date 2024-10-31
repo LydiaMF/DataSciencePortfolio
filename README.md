@@ -33,12 +33,12 @@ All projects include an intense data cleaning step, and EDA and statistical infe
 
 ## Classical Machine Learning:
 
-- Home Credit Default Risk: 
+- [Home Credit Default Risk](./ML_Home_Credit/README.md): 
   - aggregating and combining many auxiliary tables into main table on customer's features and performance
   - predict loan status (default)
   - deploy model
 
-- Lending Club: 
+- [Lending Club](./ML_Lending_Club/README.md): 
   - handling and aggregation tables > 5GB, 30 Mio. rows, 150 features
   - predict loan acceptance, loan status (default), and interest rate
   - deploy models
@@ -52,4 +52,4 @@ All projects include an intense data cleaning step, and EDA and statistical infe
 
 ## Deep Learning:
 
-- Computer Vision (WORK IN PROGRESS): Classification of Mushrooms with Pytorch Lightning
+- Computer Vision (WORK IN PROGRESS): [Classification of Mushrooms with Pytorch Lightning](./DL_Mushrooms/README.md)
