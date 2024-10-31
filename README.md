@@ -1,5 +1,5 @@
 # DataSciencePortfolio
-Collection of Projects accomplished during the Data Science Programm at Turing College.
+Collection of projects accomplished during the Data Science Programm at Turing College.
 
 All projects include an intense data cleaning step, and EDA and statistical inference step.
 
