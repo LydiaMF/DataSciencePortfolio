@@ -19,7 +19,7 @@ All projects include an intense data cleaning step, and EDA and statistical infe
    - handling and aggregating multiple tables with SQL, duckdb and pandas
    - handling tables > 5GB, 30 Mio. rows, 160 features with dask and pandas
    - handling multiple tables, a multitude of (cross-table) aggregations, and 
-       feature engineering with domain knowledge with dask and pandas --> > 300 features
+       feature engineering with domain knowledge with dask and pandas --> > 300 features    
    - Looker dashboards and python plots for data visualization
    - statistical inference
    - correlation strength and feature importances
